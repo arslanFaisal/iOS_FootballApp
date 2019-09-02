@@ -61,17 +61,20 @@ The Cities screen showcases the use of MetaWeather APIs to show the cities with 
 # Pods
 
 - ## Firebase
-
 Firebase Core and Database is used to connect the application to firebase and load the data populating all screens.
+https://cocoapods.org/pods/Firebase
 
 - ## SwiftLinkPreview
 
 Swift Link Preview is used to populate the NewsLink cells on the News Feed. The Pod is useful in getting the image to be presented on the view.
+https://cocoapods.org/pods/SwiftLinkPreview
 
 - ## Youtube iOS Player Helper
 
 The Pod is used to load the Youtube player in the Video News Feed cells and their respective detail view cells.
+https://cocoapods.org/pods/youtube-ios-player-helper
 
 - ## Lottie iOS
 
 Lottie iOS Pod is used to present the loading animation at the startup while the application is loading the initial data for each screen.
+https://cocoapods.org/pods/lottie-ios
