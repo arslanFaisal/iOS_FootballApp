@@ -17,7 +17,7 @@ The core architecture of the application is based upon the principles of Generic
 
 ## News Feed
 
-The News Feed Screen shows a table view populated by plethora of custom designed cells. These cells are divided into three categories, Videos, Facts and News Links, each of which can be interacted to view details in a separate screen. Pagination is implemented where initially only for cells displayed on the screen are loaded. The data for further cells are loaded as per the needs
+The News Feed Screen shows a table view populated by a plethora of custom designed cells. These cells are divided into three categories, Videos, Facts and News Links, each of which can be interacted to view details in a separate screen. Pagination is implemented where initially only for cells displayed on the screen are loaded. The data for further cells are loaded as per the needs
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/15052850/64110671-3b00a100-cd9c-11e9-830a-62a0bf8234b7.png" width = 300>  
