@@ -3,7 +3,7 @@ A Football application based upon the foundations of MVVM and Protocol Oriented 
 
 # Instructions
 - Run 'pod install' in root directory
-- Build
+- Open 'iOSTrainingProject.xcworkspace'
 
 # Architecture
 
